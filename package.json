@@ -2,7 +2,7 @@
   "name": "ninya",
   "displayName": "ninya",
   "description": "Replace sensitive data in file forth and back",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.100.0"
   },
