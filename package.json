@@ -15,11 +15,11 @@
     "commands": [
       {
         "command": "ninya.createTokenFromSelections",
-        "title": "Create token from selections"
+        "title": "Ninya: Create token from selections"
       },
       {
         "command": "ninya.recover",
-        "title": "Replace tokens by secrets back"
+        "title": "Ninya: Replace tokens by secrets back"
       }
     ]
   },
