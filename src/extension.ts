@@ -10,7 +10,7 @@ class DataBlock {
 	private static dataBlockStart = DataBlock.dataBlockPrefix
 	private static dataBlockEnd = DataBlock.dataBlockPrefix + ' end'
 
-	private static dataLineRegexp = /^(\w+)=(.*)$/
+	private static dataLineRegexp = /^([^=]+)=(.*)$/
 
 	constructor(
 		private editor: vscode.TextEditor
